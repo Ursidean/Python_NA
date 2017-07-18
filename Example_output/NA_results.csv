@@ -1,0 +1,1441 @@
+from,to,d,EF
+Other agriculture,Greenhouses,0,0.65846186291667053
+Other agriculture,Greenhouses,1,0.38960524543524927
+Other agriculture,Greenhouses,2,0.26402719184836881
+Other agriculture,Greenhouses,3,0.19928048114900956
+Other agriculture,Greenhouses,4,0.14697122998488621
+Other agriculture,Greenhouses,5,0.076100617166590723
+Other agriculture,Greenhouses,6,0.059518098403382902
+Other agriculture,Greenhouses,7,0.063852483789909084
+Other agriculture,Greenhouses,8,0.062953584216524125
+Other agriculture,Housing low density,0,0.53570560817515378
+Other agriculture,Housing low density,1,0.28096332593345258
+Other agriculture,Housing low density,2,0.17629185792791705
+Other agriculture,Housing low density,3,0.12909735094713887
+Other agriculture,Housing low density,4,0.087791810649975849
+Other agriculture,Housing low density,5,0.060986321475432287
+Other agriculture,Housing low density,6,0.035378738944858955
+Other agriculture,Housing low density,7,0.01396923209105728
+Other agriculture,Housing low density,8,0.015583617376546665
+Other agriculture,Housing high density,0,0.36656162483032861
+Other agriculture,Housing high density,1,0.16711152030788903
+Other agriculture,Housing high density,2,-0.0043595411110469197
+Other agriculture,Housing high density,3,-0.018117796775847541
+Other agriculture,Housing high density,4,-0.060278435640167667
+Other agriculture,Housing high density,5,-0.060562223947723773
+Other agriculture,Housing high density,6,-0.0089841267858897459
+Other agriculture,Housing high density,7,-0.0096531535660668508
+Other agriculture,Housing high density,8,-0.020347284823548785
+Other agriculture,Industry,0,0.4524108211347817
+Other agriculture,Industry,1,0.19540131862993904
+Other agriculture,Industry,2,0.093851292660902516
+Other agriculture,Industry,3,0.054776173918262276
+Other agriculture,Industry,4,0.035550751832813247
+Other agriculture,Industry,5,0.024438994323360861
+Other agriculture,Industry,6,0.01673431303821566
+Other agriculture,Industry,7,0.017048065198338895
+Other agriculture,Industry,8,0.017745696453722756
+Other agriculture,Services,0,0.039621691423825045
+Other agriculture,Services,1,0.072710213793470868
+Other agriculture,Services,2,-0.056427479911095209
+Other agriculture,Services,3,0.042327584799749997
+Other agriculture,Services,4,-0.022789645173801696
+Other agriculture,Services,5,-0.067908684207198658
+Other agriculture,Services,6,-0.040536901999553024
+Other agriculture,Services,7,0.023178819400647588
+Other agriculture,Services,8,-0.028617771083829281
+Other agriculture,Socio cultural uses,0,-0.05728832158423134
+Other agriculture,Socio cultural uses,1,-0.17737136394539893
+Other agriculture,Socio cultural uses,2,-0.097983593739140201
+Other agriculture,Socio cultural uses,3,-0.093517076537022431
+Other agriculture,Socio cultural uses,4,-0.041807217322636814
+Other agriculture,Socio cultural uses,5,-0.032972942959017745
+Other agriculture,Socio cultural uses,6,-0.092495291738497742
+Other agriculture,Socio cultural uses,7,-0.066401451010176069
+Other agriculture,Socio cultural uses,8,-0.071934660462800323
+Other agriculture,Forest,0,0.41933687998966357
+Other agriculture,Forest,1,0.14047986327687381
+Other agriculture,Forest,2,0.065780921712937646
+Other agriculture,Forest,3,0.035026502187208451
+Other agriculture,Forest,4,0.016000568699837316
+Other agriculture,Forest,5,-0.0053252107846339641
+Other agriculture,Forest,6,0.0035592203761750252
+Other agriculture,Forest,7,-0.016737179047362733
+Other agriculture,Forest,8,-0.0254278264664058
+Other agriculture,Extensive grasslands,0,0.4255100660271216
+Other agriculture,Extensive grasslands,1,0.16575879737799232
+Other agriculture,Extensive grasslands,2,0.12258925085236126
+Other agriculture,Extensive grasslands,3,0.072210276709349208
+Other agriculture,Extensive grasslands,4,0.024750606963356549
+Other agriculture,Extensive grasslands,5,0.0065844182350375344
+Other agriculture,Extensive grasslands,6,0.0255480521453978
+Other agriculture,Extensive grasslands,7,0.037082019278541635
+Other agriculture,Extensive grasslands,8,0.031093255242327918
+Other agriculture,Nature,0,0.24744641876418602
+Other agriculture,Nature,1,0.12394920914337587
+Other agriculture,Nature,2,0.061855027294727458
+Other agriculture,Nature,3,0.030077578934608901
+Other agriculture,Nature,4,0.0073882744720596468
+Other agriculture,Nature,5,-0.013582286117782704
+Other agriculture,Nature,6,-0.02473153353979686
+Other agriculture,Nature,7,-0.0077462694500831679
+Other agriculture,Nature,8,0.00043963899456856385
+Other agriculture,Recreation areas,0,0.25981404229918026
+Other agriculture,Recreation areas,1,0.035425988391884274
+Other agriculture,Recreation areas,2,-0.014927521392143324
+Other agriculture,Recreation areas,3,-0.023253635801835669
+Other agriculture,Recreation areas,4,-0.0011397312900185452
+Other agriculture,Recreation areas,5,-0.033642794556028199
+Other agriculture,Recreation areas,6,-0.024534829881171442
+Other agriculture,Recreation areas,7,-0.035275523656727856
+Other agriculture,Recreation areas,8,-0.015877707439349305
+Pastures,Greenhouses,0,-0.2073160083132074
+Pastures,Greenhouses,1,-0.15702137020745902
+Pastures,Greenhouses,2,-0.11744091722336729
+Pastures,Greenhouses,3,-0.13303418791476498
+Pastures,Greenhouses,4,-0.13937872133935328
+Pastures,Greenhouses,5,-0.13551108665597791
+Pastures,Greenhouses,6,-0.12173908765335764
+Pastures,Greenhouses,7,-0.11705987144976666
+Pastures,Greenhouses,8,-0.1127734454095074
+Pastures,Housing low density,0,-0.27367385743285971
+Pastures,Housing low density,1,-0.22656971623691266
+Pastures,Housing low density,2,-0.14973684661494061
+Pastures,Housing low density,3,-0.10449027327527614
+Pastures,Housing low density,4,-0.065098848736855411
+Pastures,Housing low density,5,-0.033026150050392493
+Pastures,Housing low density,6,-0.015501353288101477
+Pastures,Housing low density,7,-0.003953976281693884
+Pastures,Housing low density,8,-0.0010997897995573636
+Pastures,Housing high density,0,-0.94542361450502543
+Pastures,Housing high density,1,-0.67242234244128785
+Pastures,Housing high density,2,-0.43131879353219316
+Pastures,Housing high density,3,-0.3168382155611108
+Pastures,Housing high density,4,-0.23077943264433051
+Pastures,Housing high density,5,-0.20365920112613548
+Pastures,Housing high density,6,-0.17101398364748716
+Pastures,Housing high density,7,-0.14837481505607769
+Pastures,Housing high density,8,-0.11677159616553338
+Pastures,Industry,0,-0.21503929095877891
+Pastures,Industry,1,-0.15909984686410386
+Pastures,Industry,2,-0.12627789064147396
+Pastures,Industry,3,-0.11749358576991563
+Pastures,Industry,4,-0.095164150808712322
+Pastures,Industry,5,-0.069095790494993939
+Pastures,Industry,6,-0.046501383445614768
+Pastures,Industry,7,-0.041258797495742024
+Pastures,Industry,8,-0.046010314061284044
+Pastures,Services,0,-0.48231307422817776
+Pastures,Services,1,-0.59865163907456009
+Pastures,Services,2,-0.44612158275576058
+Pastures,Services,3,-0.40262946319463211
+Pastures,Services,4,-0.30862146763914022
+Pastures,Services,5,-0.18113418781154009
+Pastures,Services,6,-0.10709719486510898
+Pastures,Services,7,-0.11008191342148443
+Pastures,Services,8,-0.093020247600051717
+Pastures,Socio cultural uses,0,-1.1021018325165717
+Pastures,Socio cultural uses,1,-0.63804305063615108
+Pastures,Socio cultural uses,2,-0.45338051162968968
+Pastures,Socio cultural uses,3,-0.32653244770703865
+Pastures,Socio cultural uses,4,-0.21112402163917615
+Pastures,Socio cultural uses,5,-0.14049752368330143
+Pastures,Socio cultural uses,6,-0.095972332058184728
+Pastures,Socio cultural uses,7,-0.096463183999434682
+Pastures,Socio cultural uses,8,-0.081643946995930056
+Pastures,Forest,0,-0.22407609016113275
+Pastures,Forest,1,-0.19540157539073752
+Pastures,Forest,2,-0.15240631826708059
+Pastures,Forest,3,-0.13376209831840841
+Pastures,Forest,4,-0.11399780360553347
+Pastures,Forest,5,-0.1050905057517179
+Pastures,Forest,6,-0.094516420114219152
+Pastures,Forest,7,-0.096807400154933373
+Pastures,Forest,8,-0.089175752627474333
+Pastures,Extensive grasslands,0,-0.030607415135237907
+Pastures,Extensive grasslands,1,0.0060594945367117865
+Pastures,Extensive grasslands,2,0.012071455783250279
+Pastures,Extensive grasslands,3,0.012391043477461427
+Pastures,Extensive grasslands,4,0.00072549932237425837
+Pastures,Extensive grasslands,5,-0.0060992147636390482
+Pastures,Extensive grasslands,6,-0.01652278106732542
+Pastures,Extensive grasslands,7,-0.011540673243395647
+Pastures,Extensive grasslands,8,-0.014677889745584512
+Pastures,Nature,0,-0.15874294020329971
+Pastures,Nature,1,-0.19102100796509622
+Pastures,Nature,2,-0.1724065580013103
+Pastures,Nature,3,-0.169265301690185
+Pastures,Nature,4,-0.1575638598222795
+Pastures,Nature,5,-0.15648624161827757
+Pastures,Nature,6,-0.16456982701010914
+Pastures,Nature,7,-0.15896912684187298
+Pastures,Nature,8,-0.15216132160183626
+Pastures,Recreation areas,0,-0.21636323279214742
+Pastures,Recreation areas,1,-0.23509127901061738
+Pastures,Recreation areas,2,-0.18816602167629615
+Pastures,Recreation areas,3,-0.16228724584481422
+Pastures,Recreation areas,4,-0.15082070398097935
+Pastures,Recreation areas,5,-0.12157023678067905
+Pastures,Recreation areas,6,-0.10754112635657172
+Pastures,Recreation areas,7,-0.081745093278522779
+Pastures,Recreation areas,8,-0.070538836318036049
+Arable land,Greenhouses,0,-0.14687384410735846
+Arable land,Greenhouses,1,-0.22492520584187126
+Arable land,Greenhouses,2,-0.15933586351815063
+Arable land,Greenhouses,3,-0.099218188422512385
+Arable land,Greenhouses,4,-0.093010763486819636
+Arable land,Greenhouses,5,-0.10826328607906385
+Arable land,Greenhouses,6,-0.11563918139046003
+Arable land,Greenhouses,7,-0.14535722052234168
+Arable land,Greenhouses,8,-0.17802493632028113
+Arable land,Housing low density,0,-0.26716994993332582
+Arable land,Housing low density,1,-0.37151771052854715
+Arable land,Housing low density,2,-0.32300741588933779
+Arable land,Housing low density,3,-0.27034081400403753
+Arable land,Housing low density,4,-0.21566815476617995
+Arable land,Housing low density,5,-0.17940377612397332
+Arable land,Housing low density,6,-0.15163435674996009
+Arable land,Housing low density,7,-0.12279773048485126
+Arable land,Housing low density,8,-0.12554465260375663
+Arable land,Housing high density,0,-0.94516865628249302
+Arable land,Housing high density,1,-1.2461986519464743
+Arable land,Housing high density,2,-0.83401820415982642
+Arable land,Housing high density,3,-0.63223943731880428
+Arable land,Housing high density,4,-0.51356936597053626
+Arable land,Housing high density,5,-0.46187765341786718
+Arable land,Housing high density,6,-0.40623817976141557
+Arable land,Housing high density,7,-0.35243201268561081
+Arable land,Housing high density,8,-0.35919344711159762
+Arable land,Industry,0,-0.33593008032740734
+Arable land,Industry,1,-0.33219221725176551
+Arable land,Industry,2,-0.23715545700295984
+Arable land,Industry,3,-0.19611652183217496
+Arable land,Industry,4,-0.15814059870364711
+Arable land,Industry,5,-0.14385165716195558
+Arable land,Industry,6,-0.13935040161159185
+Arable land,Industry,7,-0.12061902716276639
+Arable land,Industry,8,-0.090439269726920291
+Arable land,Services,0,-0.78308811166962655
+Arable land,Services,1,-0.68617809866157009
+Arable land,Services,2,-0.71614132203901337
+Arable land,Services,3,-0.54005006298333214
+Arable land,Services,4,-0.41801383851525103
+Arable land,Services,5,-0.44316930556252476
+Arable land,Services,6,-0.37305016692805648
+Arable land,Services,7,-0.376874838073262
+Arable land,Services,8,-0.33123688011109248
+Arable land,Socio cultural uses,0,-0.87999812467768301
+Arable land,Socio cultural uses,1,-0.72239027131601485
+Arable land,Socio cultural uses,2,-0.69200764232229384
+Arable land,Socio cultural uses,3,-0.50537473751807538
+Arable land,Socio cultural uses,4,-0.43253857129252199
+Arable land,Socio cultural uses,5,-0.30860935513997118
+Arable land,Socio cultural uses,6,-0.26586082266680933
+Arable land,Socio cultural uses,7,-0.23386199999938614
+Arable land,Socio cultural uses,8,-0.26633014808744776
+Arable land,Forest,0,-0.19385790856115712
+Arable land,Forest,1,-0.096503870766050173
+Arable land,Forest,2,-0.014593766805746618
+Arable land,Forest,3,-0.013775199663309612
+Arable land,Forest,4,-0.0034728839702877529
+Arable land,Forest,5,0.011391523897069487
+Arable land,Forest,6,0.027653691066252265
+Arable land,Forest,7,0.042087196843541515
+Arable land,Forest,8,0.045328841873559927
+Arable land,Extensive grasslands,0,-0.43859242222455513
+Arable land,Extensive grasslands,1,-0.096404812846195342
+Arable land,Extensive grasslands,2,-0.062533185843322611
+Arable land,Extensive grasslands,3,0.04603126931648964
+Arable land,Extensive grasslands,4,0.057422192477830356
+Arable land,Extensive grasslands,5,0.046426659221426962
+Arable land,Extensive grasslands,6,0.067868661302285027
+Arable land,Extensive grasslands,7,0.082529105201461297
+Arable land,Extensive grasslands,8,0.096568422095165224
+Arable land,Nature,0,-0.11004135290931095
+Arable land,Nature,1,-0.062890154489276803
+Arable land,Nature,2,-0.023412245656970344
+Arable land,Nature,3,0.017714647301162196
+Arable land,Nature,4,0.018210439233462571
+Arable land,Nature,5,0.020504804553656143
+Arable land,Nature,6,0.031303130946808186
+Arable land,Nature,7,0.035229059882939166
+Arable land,Nature,8,0.053999477902893674
+Arable land,Recreation areas,0,-0.61404828324165261
+Arable land,Recreation areas,1,-0.40796699333455877
+Arable land,Recreation areas,2,-0.32479170198918117
+Arable land,Recreation areas,3,-0.27899733140420441
+Arable land,Recreation areas,4,-0.24337503546073477
+Arable land,Recreation areas,5,-0.19452585381272802
+Arable land,Recreation areas,6,-0.1820843087765632
+Arable land,Recreation areas,7,-0.17803289800569666
+Arable land,Recreation areas,8,-0.17373358850626011
+Greenhouses,Greenhouses,0,-9999.0
+Greenhouses,Greenhouses,1,1.3171783035695024
+Greenhouses,Greenhouses,2,1.2917616949767861
+Greenhouses,Greenhouses,3,1.229887612962397
+Greenhouses,Greenhouses,4,1.181427905925162
+Greenhouses,Greenhouses,5,1.2008721099518778
+Greenhouses,Greenhouses,6,1.1729467492623007
+Greenhouses,Greenhouses,7,1.139355751066103
+Greenhouses,Greenhouses,8,1.1151827363520168
+Greenhouses,Housing low density,0,0.42086507687257735
+Greenhouses,Housing low density,1,0.27212342559165259
+Greenhouses,Housing low density,2,0.32481590553765716
+Greenhouses,Housing low density,3,0.30475838595400112
+Greenhouses,Housing low density,4,0.28148008360883919
+Greenhouses,Housing low density,5,0.25303386741803663
+Greenhouses,Housing low density,6,0.22094905679592305
+Greenhouses,Housing low density,7,0.17944582406625012
+Greenhouses,Housing low density,8,0.16835883870884874
+Greenhouses,Housing high density,0,0.58796441053766679
+Greenhouses,Housing high density,1,0.32832710003191073
+Greenhouses,Housing high density,2,0.44038630846419602
+Greenhouses,Housing high density,3,0.44830241710866053
+Greenhouses,Housing high density,4,0.43639243529079025
+Greenhouses,Housing high density,5,0.42915077891704162
+Greenhouses,Housing high density,6,0.39928402417396519
+Greenhouses,Housing high density,7,0.37731005125824568
+Greenhouses,Housing high density,8,0.41291937187427047
+Greenhouses,Industry,0,0.090747655578465841
+Greenhouses,Industry,1,0.13214034073669093
+Greenhouses,Industry,2,0.29477188374565444
+Greenhouses,Industry,3,0.32119023599178287
+Greenhouses,Industry,4,0.3240069572345633
+Greenhouses,Industry,5,0.315979301944323
+Greenhouses,Industry,6,0.29620400161342442
+Greenhouses,Industry,7,0.29059068862378684
+Greenhouses,Industry,8,0.23997002685083002
+Greenhouses,Services,0,0.35210494647849577
+Greenhouses,Services,1,0.22716620987019584
+Greenhouses,Services,2,-0.028106295233110194
+Greenhouses,Services,3,-0.37489378145776653
+Greenhouses,Services,4,0.29411299950080905
+Greenhouses,Services,5,0.22716620987019584
+Greenhouses,Services,6,0.26962464889308074
+Greenhouses,Services,7,0.092467635972739701
+Greenhouses,Services,8,0.057744695920156013
+Greenhouses,Socio cultural uses,0,0.25519493347043942
+Greenhouses,Socio cultural uses,1,-0.17077379880184171
+Greenhouses,Socio cultural uses,2,-0.17077379880184165
+Greenhouses,Socio cultural uses,3,-0.47180379446582288
+Greenhouses,Socio cultural uses,4,-0.47365276672472922
+Greenhouses,Socio cultural uses,5,-0.53875058409643628
+Greenhouses,Socio cultural uses,6,0.013749663654918091
+Greenhouses,Socio cultural uses,7,0.16649649241166553
+Greenhouses,Socio cultural uses,8,0.23199736129552334
+Greenhouses,Forest,0,-9999.0
+Greenhouses,Forest,1,-0.49002861457202196
+Greenhouses,Forest,2,-0.36508987796372211
+Greenhouses,Forest,3,-0.26632257995009845
+Greenhouses,Forest,4,-0.20767088935036776
+Greenhouses,Forest,5,-0.19421601247381021
+Greenhouses,Forest,6,-0.26107952453772654
+Greenhouses,Forest,7,-0.27614981043459824
+Greenhouses,Forest,8,-0.32950411114443617
+Greenhouses,Extensive grasslands,0,-0.0023693684124514625
+Greenhouses,Extensive grasslands,1,-0.42833810068473255
+Greenhouses,Extensive grasslands,2,-0.59146438257604617
+Greenhouses,Extensive grasslands,3,-0.22121260788908254
+Greenhouses,Extensive grasslands,4,-0.21190055017441167
+Greenhouses,Extensive grasslands,5,-0.56938661083369557
+Greenhouses,Extensive grasslands,6,-0.30339936407643259
+Greenhouses,Extensive grasslands,7,-0.25069301356042967
+Greenhouses,Extensive grasslands,8,-0.17374129697009708
+Greenhouses,Nature,0,-9999.0
+Greenhouses,Nature,1,-0.50118757215103249
+Greenhouses,Nature,2,-0.35758930760807722
+Greenhouses,Nature,3,-0.22099554540561336
+Greenhouses,Nature,4,-0.22400313997129734
+Greenhouses,Nature,5,-0.14265222753653631
+Greenhouses,Nature,6,-0.18626657322607601
+Greenhouses,Nature,7,-0.12089437488673702
+Greenhouses,Nature,8,-0.097564485380764746
+Greenhouses,Recreation areas,0,-0.85906646680513621
+Greenhouses,Recreation areas,1,-0.30579042066803686
+Greenhouses,Recreation areas,2,-0.18583338928977639
+Greenhouses,Recreation areas,3,-0.1846967929728125
+Greenhouses,Recreation areas,4,-0.10596815888807676
+Greenhouses,Recreation areas,5,-0.062133127915731667
+Greenhouses,Recreation areas,6,-0.031681919917467001
+Greenhouses,Recreation areas,7,-0.042461391589251211
+Greenhouses,Recreation areas,8,0.00086395534525712163
+Housing low density,Greenhouses,0,-0.54208944673961479
+Housing low density,Greenhouses,1,-0.18193799895697693
+Housing low density,Greenhouses,2,-0.092231638802083835
+Housing low density,Greenhouses,3,-0.055919569517405787
+Housing low density,Greenhouses,4,0.027742886253075066
+Housing low density,Greenhouses,5,0.042174011518038255
+Housing low density,Greenhouses,6,0.009620537665455434
+Housing low density,Greenhouses,7,-0.024023389642257885
+Housing low density,Greenhouses,8,0.020475459929736095
+Housing low density,Housing low density,0,-9999.0
+Housing low density,Housing low density,1,0.48049239988205961
+Housing low density,Housing low density,2,0.39610308657065613
+Housing low density,Housing low density,3,0.31167072500320453
+Housing low density,Housing low density,4,0.21263464003756885
+Housing low density,Housing low density,5,0.12294836088800014
+Housing low density,Housing low density,6,0.099933978916322344
+Housing low density,Housing low density,7,0.077300438559271614
+Housing low density,Housing low density,8,0.067722204197877833
+Housing low density,Housing high density,0,-9999.0
+Housing low density,Housing high density,1,0.48894632139024485
+Housing low density,Housing high density,2,0.43322903878683128
+Housing low density,Housing high density,3,0.32751200200929398
+Housing low density,Housing high density,4,0.2610585222240745
+Housing low density,Housing high density,5,0.23743957406100288
+Housing low density,Housing high density,6,0.18256576293734786
+Housing low density,Housing high density,7,0.13468316182244489
+Housing low density,Housing high density,8,0.13571509760512954
+Housing low density,Industry,0,-0.13542586966272022
+Housing low density,Industry,1,0.12194195524624903
+Housing low density,Industry,2,0.19954337773468681
+Housing low density,Industry,3,0.20763673069586303
+Housing low density,Industry,4,0.18206800338519177
+Housing low density,Industry,5,0.12682923826929771
+Housing low density,Industry,6,0.10270298341951016
+Housing low density,Industry,7,0.079909013163424178
+Housing low density,Industry,8,0.070649455491252261
+Housing low density,Services,0,0.57502395235672854
+Housing low density,Services,1,0.51596712258502608
+Housing low density,Services,2,0.50116810066148254
+Housing low density,Services,3,0.46696386422388042
+Housing low density,Services,4,0.34751421522154657
+Housing low density,Services,5,0.25149522641014421
+Housing low density,Services,6,0.15820079564596864
+Housing low density,Services,7,0.12641341553495367
+Housing low density,Services,8,0.1535086379218758
+Housing low density,Socio cultural uses,0,0.47811393934867219
+Housing low density,Socio cultural uses,1,0.53345130791900408
+Housing low density,Socio cultural uses,2,0.50285630721672314
+Housing low density,Socio cultural uses,3,0.41138791057860341
+Housing low density,Socio cultural uses,4,0.31278766372604866
+Housing low density,Socio cultural uses,5,0.24187533888246224
+Housing low density,Socio cultural uses,6,0.20129108498052015
+Housing low density,Socio cultural uses,7,0.15907435830322256
+Housing low density,Socio cultural uses,8,0.14172704850882373
+Housing low density,Forest,0,-0.56813960435777044
+Housing low density,Forest,1,-0.23570114444216506
+Housing low density,Forest,2,-0.094247319768306428
+Housing low density,Forest,3,0.00616060580274818
+Housing low density,Forest,4,0.017802798546535839
+Housing low density,Forest,5,0.025772918794833746
+Housing low density,Forest,6,0.027374724232119726
+Housing low density,Forest,7,0.047785025039655711
+Housing low density,Forest,8,0.018579642732237899
+Housing low density,Extensive grasslands,0,-9999.0
+Housing low density,Extensive grasslands,1,-0.68254034952616227
+Housing low density,Extensive grasslands,2,-0.22786043861831051
+Housing low density,Extensive grasslands,3,-0.091422718327458435
+Housing low density,Extensive grasslands,4,-0.0078300974413907827
+Housing low density,Extensive grasslands,5,0.078642350052925761
+Housing low density,Extensive grasslands,6,0.06558674149306741
+Housing low density,Extensive grasslands,7,-0.0091880862836067716
+Housing low density,Extensive grasslands,8,-0.038596684923849128
+Housing low density,Nature,0,-0.14686378741526807
+Housing low density,Nature,1,-0.10790904781878632
+Housing low density,Nature,2,-0.043225405277694369
+Housing low density,Nature,3,0.014763800141353214
+Housing low density,Nature,4,0.041492651130050899
+Housing low density,Nature,5,0.057876615879047445
+Housing low density,Nature,6,0.082250283560590373
+Housing low density,Nature,7,0.074868450821406363
+Housing low density,Nature,8,0.062114740652958668
+Housing low density,Recreation areas,0,0.35507861476559133
+Housing low density,Recreation areas,1,0.36165483470876975
+Housing low density,Recreation areas,2,0.32912484704238804
+Housing low density,Recreation areas,3,0.29673686649258157
+Housing low density,Recreation areas,4,0.25863164407447198
+Housing low density,Recreation areas,5,0.2295915733040457
+Housing low density,Recreation areas,6,0.19083400799056938
+Housing low density,Recreation areas,7,0.14750728448332726
+Housing low density,Recreation areas,8,0.13769845397017885
+Housing high density,Greenhouses,0,-9999.0
+Housing high density,Greenhouses,1,-0.69365254408217925
+Housing high density,Greenhouses,2,-0.34507415023964216
+Housing high density,Greenhouses,3,-0.07336272489955098
+Housing high density,Greenhouses,4,0.045294028753818674
+Housing high density,Greenhouses,5,0.1381432291756608
+Housing high density,Greenhouses,6,0.14079506024456806
+Housing high density,Greenhouses,7,0.22337246012342032
+Housing high density,Greenhouses,8,0.2074337707078176
+Housing high density,Housing low density,0,-9999.0
+Housing high density,Housing low density,1,0.44797535520340448
+Housing high density,Housing low density,2,0.4439876820274774
+Housing high density,Housing low density,3,0.3953051382503755
+Housing high density,Housing low density,4,0.32327802307101378
+Housing high density,Housing low density,5,0.30903941341246843
+Housing high density,Housing low density,6,0.29091612008021117
+Housing high density,Housing low density,7,0.25621467178566709
+Housing high density,Housing low density,8,0.22816398397332421
+Housing high density,Housing high density,0,-9999.0
+Housing high density,Housing high density,1,0.91503128406436662
+Housing high density,Housing high density,2,0.80503633611429004
+Housing high density,Housing high density,3,0.7209824803111432
+Housing high density,Housing high density,4,0.71544283828292543
+Housing high density,Housing high density,5,0.67053250033772249
+Housing high density,Housing high density,6,0.62614271721555703
+Housing high density,Housing high density,7,0.59724167784592197
+Housing high density,Housing high density,8,0.57823226713454112
+Housing high density,Industry,0,-0.75435038443579083
+Housing high density,Industry,1,0.11873021447158079
+Housing high density,Industry,2,0.2681400757608835
+Housing high density,Industry,3,0.32425940337186454
+Housing high density,Industry,4,0.32172562693242335
+Housing high density,Industry,5,0.28968422138732802
+Housing high density,Industry,6,0.25665386328818263
+Housing high density,Industry,7,0.2656435874756517
+Housing high density,Industry,8,0.2611412394024295
+Housing high density,Services,0,0.8872181481758451
+Housing high density,Services,1,0.9058146366675035
+Housing high density,Services,2,0.9003256618480735
+Housing high density,Services,3,0.80562909239698954
+Housing high density,Services,4,0.72140685350122857
+Housing high density,Services,5,0.58389127386757222
+Housing high density,Services,6,0.52873661506035818
+Housing high density,Services,7,0.50366267417303978
+Housing high density,Services,8,0.40417297213041581
+Housing high density,Socio cultural uses,0,0.81663707389013784
+Housing high density,Socio cultural uses,1,0.79970590950816867
+Housing high density,Socio cultural uses,2,0.81287173197374329
+Housing high density,Socio cultural uses,3,0.80596044232760933
+Housing high density,Socio cultural uses,4,0.63356997850431029
+Housing high density,Socio cultural uses,5,0.55760596629873282
+Housing high density,Socio cultural uses,6,0.51652811225772532
+Housing high density,Socio cultural uses,7,0.47642158506266163
+Housing high density,Socio cultural uses,8,0.41504738483485459
+Housing high density,Forest,0,-9999.0
+Housing high density,Forest,1,-0.91599734684430312
+Housing high density,Forest,2,-0.33054475621159835
+Housing high density,Forest,3,-0.22779552592467903
+Housing high density,Forest,4,-0.14500539377857272
+Housing high density,Forest,5,-0.10811114832064757
+Housing high density,Forest,6,-0.12444715393140393
+Housing high density,Forest,7,-0.092727141528823595
+Housing high density,Forest,8,-0.1218035357653254
+Housing high density,Extensive grasslands,0,-9999.0
+Housing high density,Extensive grasslands,1,-0.67137614937102696
+Housing high density,Extensive grasslands,2,-0.56303667458218876
+Housing high density,Extensive grasslands,3,-0.44736133799816297
+Housing high density,Extensive grasslands,4,-0.36124982400875549
+Housing high density,Extensive grasslands,5,-0.26319321176353389
+Housing high density,Extensive grasslands,6,-0.19629227241555422
+Housing high density,Extensive grasslands,7,-0.11785974756045785
+Housing high density,Extensive grasslands,8,-0.029875924008484135
+Housing high density,Nature,0,-9999.0
+Housing high density,Nature,1,-0.39276753072029663
+Housing high density,Nature,2,-0.15743521785567618
+Housing high density,Nature,3,-0.0027062241126006741
+Housing high density,Nature,4,-0.014318612393564679
+Housing high density,Nature,5,0.027579597031273422
+Housing high density,Nature,6,0.069603417366507409
+Housing high density,Nature,7,0.078773517947430746
+Housing high density,Nature,8,0.05799474954355948
+Housing high density,Recreation areas,0,0.17089675657230699
+Housing high density,Recreation areas,1,0.44397522968182662
+Housing high density,Recreation areas,2,0.46933930036651417
+Housing high density,Recreation areas,3,0.45414934898641862
+Housing high density,Recreation areas,4,0.45303248730360429
+Housing high density,Recreation areas,5,0.41458046851588082
+Housing high density,Recreation areas,6,0.40097542360315225
+Housing high density,Recreation areas,7,0.36711072235222902
+Housing high density,Recreation areas,8,0.35189674082308808
+Industry,Greenhouses,0,-0.73602579972223181
+Industry,Greenhouses,1,-0.33808579105019421
+Industry,Greenhouses,2,-0.21216114146024295
+Industry,Greenhouses,3,-0.056187079592078547
+Industry,Greenhouses,4,0.029560483537995431
+Industry,Greenhouses,5,0.090617939589742402
+Industry,Greenhouses,6,0.11866513784963188
+Industry,Greenhouses,7,0.12930543396480024
+Industry,Greenhouses,8,0.19196683876470319
+Industry,Housing low density,0,0.15741790586612939
+Industry,Housing low density,1,0.093177009611441181
+Industry,Housing low density,2,0.11581227906014525
+Industry,Housing low density,3,0.21095909191863499
+Industry,Housing low density,4,0.21973895134039581
+Industry,Housing low density,5,0.19907484229207151
+Industry,Housing low density,6,0.14633852775259093
+Industry,Housing low density,7,0.14221605056375117
+Industry,Housing low density,8,0.15188851219179014
+Industry,Housing high density,0,0.4364909989751512
+Industry,Housing high density,1,0.35413970613801982
+Industry,Housing high density,2,0.33903228787527778
+Industry,Housing high density,3,0.32777475572286419
+Industry,Housing high density,4,0.35483413171202594
+Industry,Housing high density,5,0.37568758285858056
+Industry,Housing high density,6,0.34803018264512781
+Industry,Housing high density,7,0.3292914209834108
+Industry,Housing high density,8,0.31861351032733315
+Industry,Industry,0,-9999.0
+Industry,Industry,1,0.65652415051568436
+Industry,Industry,2,0.54863511267512055
+Industry,Industry,3,0.47366719944069885
+Industry,Industry,4,0.41711941741421982
+Industry,Industry,5,0.40270946165717558
+Industry,Industry,6,0.34795726230965884
+Industry,Industry,7,0.30797234202897772
+Industry,Industry,8,0.26179723148559936
+Industry,Services,0,0.70330689410803071
+Industry,Services,1,0.32803087007193699
+Industry,Services,2,0.28417758636605506
+Industry,Services,3,0.39216440625780308
+Industry,Services,4,0.40394465707767729
+Industry,Services,5,0.43654324157787688
+Industry,Services,6,0.33071010224455416
+Industry,Services,7,0.27236727643919961
+Industry,Services,8,0.27320359158099178
+Industry,Socio cultural uses,0,0.46026884542173629
+Industry,Socio cultural uses,1,0.30536688543599316
+Industry,Socio cultural uses,2,0.36191505380802008
+Industry,Socio cultural uses,3,0.40162899894145576
+Industry,Socio cultural uses,4,0.37196191822160857
+Industry,Socio cultural uses,5,0.30518691610387455
+Industry,Socio cultural uses,6,0.26562862633870771
+Industry,Socio cultural uses,7,0.21982074274240215
+Industry,Socio cultural uses,8,0.247690141800712
+Industry,Forest,0,0.13001864535009289
+Industry,Forest,1,-0.24752820468010134
+Industry,Forest,2,-0.19924258941414227
+Industry,Forest,3,-0.05852477014254677
+Industry,Forest,4,-0.0091558593531823641
+Industry,Forest,5,0.04856658658003532
+Industry,Forest,6,-0.0089746640034054723
+Industry,Forest,7,-0.028682245229303155
+Industry,Forest,8,0.019180136904207095
+Industry,Extensive grasslands,0,-0.019144206077510828
+Industry,Extensive grasslands,1,-0.056932766966910658
+Industry,Extensive grasslands,2,-0.14408294268581093
+Industry,Extensive grasslands,3,-0.23302402602259195
+Industry,Extensive grasslands,4,-0.1903978593492055
+Industry,Extensive grasslands,5,-0.13964515274711586
+Industry,Extensive grasslands,6,-0.027516099042299024
+Industry,Extensive grasslands,7,-0.021684916634200555
+Industry,Extensive grasslands,8,-0.15163473278655418
+Industry,Nature,0,0.10528688058180845
+Industry,Nature,1,0.17610629185109919
+Industry,Nature,2,0.1167890202824204
+Industry,Nature,3,0.12429310938412713
+Industry,Nature,4,0.1317161896509578
+Industry,Nature,5,0.17408081781193799
+Industry,Nature,6,0.13672872691661858
+Industry,Nature,7,0.1034079660340487
+Industry,Nature,8,0.094012220595541124
+Industry,Recreation areas,0,0.09419547215236114
+Industry,Recreation areas,1,0.16780161619844011
+Industry,Recreation areas,2,0.20292586933222917
+Industry,Recreation areas,3,0.2213078284504108
+Industry,Recreation areas,4,0.23512219162774825
+Industry,Recreation areas,5,0.23080173650006774
+Industry,Recreation areas,6,0.19143430944063547
+Industry,Recreation areas,7,0.21868994132712297
+Industry,Recreation areas,8,0.19079973403830858
+Services,Greenhouses,0,-9999.0
+Services,Greenhouses,1,-9999.0
+Services,Greenhouses,2,-0.57749872643922229
+Services,Greenhouses,3,-0.049224949272178652
+Services,Greenhouses,4,-0.10988249066451096
+Services,Greenhouses,5,-0.0016484301144553254
+Services,Greenhouses,6,-0.026730232707845504
+Services,Greenhouses,7,0.036073920232909833
+Services,Greenhouses,8,0.10591385668898558
+Services,Housing low density,0,0.8178898175938335
+Services,Housing low density,1,0.27231118221831929
+Services,Housing low density,2,0.41525922890390571
+Services,Housing low density,3,0.34663221681712808
+Services,Housing low density,4,0.33041384595945045
+Services,Housing low density,5,0.30369664781025452
+Services,Housing low density,6,0.25135806112211373
+Services,Housing low density,7,0.18721234259968547
+Services,Housing low density,8,0.24433359724377415
+Services,Housing high density,0,1.4779046731618171
+Services,Housing high density,1,0.81962175759501488
+Services,Housing high density,2,0.85928378694598795
+Services,Housing high density,3,0.84472942643919391
+Services,Housing high density,4,0.78078794333669888
+Services,Housing high density,5,0.5813614273420491
+Services,Housing high density,6,0.53427159737963148
+Services,Housing high density,7,0.50904525329225314
+Services,Housing high density,8,0.417411034903102
+Services,Industry,0,1.1474891014880673
+Services,Industry,1,0.50614408637076447
+Services,Industry,2,0.46112020152828148
+Services,Industry,3,0.34489385020129382
+Services,Industry,4,0.34730532492626687
+Services,Industry,5,0.29511519664997699
+Services,Industry,6,0.30397050290658417
+Services,Industry,7,0.23625266475778361
+Services,Industry,8,0.1287737657369625
+Services,Services,0,-9999.0
+Services,Services,1,1.2342198715906896
+Services,Services,2,1.0206662210052158
+Services,Services,3,0.66994844115212715
+Services,Services,4,0.62061459117577744
+Services,Services,5,0.53622966345570899
+Services,Services,6,0.62221439447756888
+Services,Services,7,0.43301588746358199
+Services,Services,8,0.46167249872504451
+Services,Socio cultural uses,0,1.4761284151360143
+Services,Socio cultural uses,1,1.0871432491169031
+Services,Socio cultural uses,2,0.87943508619532584
+Services,Socio cultural uses,3,0.83856693702704033
+Services,Socio cultural uses,4,0.69985657309031213
+Services,Socio cultural uses,5,0.53682191169776738
+Services,Socio cultural uses,6,0.52785141927170909
+Services,Socio cultural uses,7,0.34820120330130266
+Services,Socio cultural uses,8,0.30807952180267062
+Services,Forest,0,-9999.0
+Services,Forest,1,-9999.0
+Services,Forest,2,-0.52436763800975317
+Services,Forest,3,-0.47321511556237178
+Services,Forest,4,-0.092937594646989252
+Services,Forest,5,0.017569301741312302
+Services,Forest,6,-0.081174773826669711
+Services,Forest,7,0.00059251044382344542
+Services,Forest,8,-0.098901444104435313
+Services,Extensive grasslands,0,-9999.0
+Services,Extensive grasslands,1,-9999.0
+Services,Extensive grasslands,2,-9999.0
+Services,Extensive grasslands,3,-0.28658586506678246
+Services,Extensive grasslands,4,-0.58761586073076366
+Services,Extensive grasslands,5,-0.52962391375307705
+Services,Extensive grasslands,6,-0.20740461901915774
+Services,Extensive grasslands,7,-0.18984248347397731
+Services,Extensive grasslands,8,-0.3112018014142498
+Services,Nature,0,0.38875269047311783
+Services,Nature,1,-0.11639728784678804
+Services,Nature,2,-0.093569757932352268
+Services,Nature,3,-0.14555551658800148
+Services,Nature,4,-0.026941648337752346
+Services,Nature,5,0.0015478247463714498
+Services,Nature,6,0.099412318695652022
+Services,Nature,7,0.070220300704118499
+Services,Nature,8,0.066064577038799088
+Services,Recreation areas,0,0.53795827391611994
+Services,Recreation areas,1,0.50016971302672009
+Services,Recreation areas,2,0.44925213485442356
+Services,Recreation areas,3,0.50112184718608388
+Services,Recreation areas,4,0.50821035138337645
+Services,Recreation areas,5,0.57666385898369754
+Services,Recreation areas,6,0.5279079582747811
+Services,Recreation areas,7,0.50161514206416891
+Services,Recreation areas,8,0.40483046586964405
+Socio cultural uses,Greenhouses,0,-9999.0
+Socio cultural uses,Greenhouses,1,-0.54982729984136391
+Socio cultural uses,Greenhouses,2,-0.2999498266247641
+Socio cultural uses,Greenhouses,3,-0.43712301965007561
+Socio cultural uses,Greenhouses,4,0.048270761035576655
+Socio cultural uses,Greenhouses,5,-0.0964496295785605
+Socio cultural uses,Greenhouses,6,-0.0242504800417285
+Socio cultural uses,Greenhouses,7,-0.088485037188180904
+Socio cultural uses,Greenhouses,8,-0.16452631272299331
+Socio cultural uses,Housing low density,0,0.82917082800352249
+Socio cultural uses,Housing low density,1,0.37004551618744785
+Socio cultural uses,Housing low density,2,0.27436113162039205
+Socio cultural uses,Housing low density,3,0.2859613431187939
+Socio cultural uses,Housing low density,4,0.22671002510840846
+Socio cultural uses,Housing low density,5,0.16885152843877382
+Socio cultural uses,Housing low density,6,0.18774233603357346
+Socio cultural uses,Housing low density,7,0.16851212023096224
+Socio cultural uses,Housing low density,8,0.15848000243756383
+Socio cultural uses,Housing high density,0,1.2113855286259998
+Socio cultural uses,Housing high density,1,0.58418250193528221
+Socio cultural uses,Housing high density,2,0.43323427824235644
+Socio cultural uses,Housing high density,3,0.51991916044421127
+Socio cultural uses,Housing high density,4,0.47127242064215452
+Socio cultural uses,Housing high density,5,0.4968634172685425
+Socio cultural uses,Housing high density,6,0.43315226995303419
+Socio cultural uses,Housing high density,7,0.34663868119609648
+Socio cultural uses,Housing high density,8,0.32561031852649097
+Socio cultural uses,Industry,0,0.48522520728584206
+Socio cultural uses,Industry,1,0.25192334086095192
+Socio cultural uses,Industry,2,0.20635067566191992
+Socio cultural uses,Industry,3,0.15208556940232751
+Socio cultural uses,Industry,4,0.13828444950089469
+Socio cultural uses,Industry,5,0.11918140520967153
+Socio cultural uses,Industry,6,0.067149578586939651
+Socio cultural uses,Industry,7,0.072896124941400325
+Socio cultural uses,Industry,8,0.10045799761005716
+Socio cultural uses,Services,0,0.77140608191090398
+Socio cultural uses,Services,1,0.68122945156181614
+Socio cultural uses,Services,2,0.59531482285522275
+Socio cultural uses,Services,3,0.41264919541533562
+Socio cultural uses,Services,4,0.33750671585220143
+Socio cultural uses,Services,5,0.32140641895696093
+Socio cultural uses,Services,6,0.42221271365353158
+Socio cultural uses,Services,7,0.39551621398194081
+Socio cultural uses,Services,8,0.14544930670562636
+Socio cultural uses,Socio cultural uses,0,-9999.0
+Socio cultural uses,Socio cultural uses,1,1.0749621016246096
+Socio cultural uses,Socio cultural uses,2,0.80937269001453327
+Socio cultural uses,Socio cultural uses,3,0.58159837601459718
+Socio cultural uses,Socio cultural uses,4,0.582342286176742
+Socio cultural uses,Socio cultural uses,5,0.4519256828071988
+Socio cultural uses,Socio cultural uses,6,0.32417950765892167
+Socio cultural uses,Socio cultural uses,7,0.38719236389283035
+Socio cultural uses,Socio cultural uses,8,0.2149913876699458
+Socio cultural uses,Forest,0,0.40639377558004874
+Socio cultural uses,Forest,1,0.20227379292412395
+Socio cultural uses,Forest,2,0.084777249134290258
+Socio cultural uses,Forest,3,-0.044289380059293046
+Socio cultural uses,Forest,4,0.074007088586477712
+Socio cultural uses,Forest,5,0.090733529730667575
+Socio cultural uses,Forest,6,0.10224791011197042
+Socio cultural uses,Forest,7,0.12459793957873162
+Socio cultural uses,Forest,8,0.061311602092598283
+Socio cultural uses,Extensive grasslands,0,-9999.0
+Socio cultural uses,Extensive grasslands,1,-0.31006696091630542
+Socio cultural uses,Extensive grasslands,2,0.15968069593456283
+Socio cultural uses,Extensive grasslands,3,0.03672052530835089
+Socio cultural uses,Extensive grasslands,4,-0.2431201712856923
+Socio cultural uses,Extensive grasslands,5,-0.22404629033837528
+Socio cultural uses,Extensive grasslands,6,-0.19407248486563769
+Socio cultural uses,Extensive grasslands,7,-0.080057387732117319
+Socio cultural uses,Extensive grasslands,8,-0.15993899805258383
+Socio cultural uses,Nature,0,0.80460428845385756
+Socio cultural uses,Nature,1,0.32522107819431711
+Socio cultural uses,Nature,2,0.25536940361828481
+Socio cultural uses,Nature,3,0.10445243416657939
+Socio cultural uses,Nature,4,0.12915591867560586
+Socio cultural uses,Nature,5,0.055065081856573425
+Socio cultural uses,Nature,6,0.089890362877539876
+Socio cultural uses,Nature,7,0.0956175466369623
+Socio cultural uses,Nature,8,0.088103151522849976
+Socio cultural uses,Recreation areas,0,0.560234668627272
+Socio cultural uses,Recreation areas,1,0.31647219194664533
+Socio cultural uses,Recreation areas,2,0.39514461027805953
+Socio cultural uses,Recreation areas,3,0.42932646857130463
+Socio cultural uses,Recreation areas,4,0.35493660975159996
+Socio cultural uses,Recreation areas,5,0.36908241950088078
+Socio cultural uses,Recreation areas,6,0.32757667663086448
+Socio cultural uses,Recreation areas,7,0.22722691730122677
+Socio cultural uses,Recreation areas,8,0.19534609758463489
+Forest,Greenhouses,0,-1.0704142483421166
+Forest,Greenhouses,1,-0.62547767699385548
+Forest,Greenhouses,2,-0.63750971230167786
+Forest,Greenhouses,3,-0.63296569838640537
+Forest,Greenhouses,4,-0.64808433605633864
+Forest,Greenhouses,5,-0.70851462102747542
+Forest,Greenhouses,6,-0.62058285278058634
+Forest,Greenhouses,7,-0.66622749148284344
+Forest,Greenhouses,8,-0.67435550776065833
+Forest,Housing low density,0,-1.0094794554599915
+Forest,Housing low density,1,-0.65564562554203953
+Forest,Housing low density,2,-0.40609447647248981
+Forest,Housing low density,3,-0.31146571961835517
+Forest,Housing low density,4,-0.23248049521652869
+Forest,Housing low density,5,-0.20149267937805623
+Forest,Housing low density,6,-0.16234103431474539
+Forest,Housing low density,7,-0.13912177784860585
+Forest,Housing low density,8,-0.13727452839360077
+Forest,Housing high density,0,-9999.0
+Forest,Housing high density,1,-0.99728208178064537
+Forest,Housing high density,2,-0.49127126178760316
+Forest,Housing high density,3,-0.5609970810323881
+Forest,Housing high density,4,-0.48815805113273164
+Forest,Housing high density,5,-0.36024036995025754
+Forest,Housing high density,6,-0.3071017836447909
+Forest,Housing high density,7,-0.32664298458378566
+Forest,Housing high density,8,-0.36601070813879122
+Forest,Industry,0,-1.2146581401458032
+Forest,Industry,1,-0.56359560344401871
+Forest,Industry,2,-0.41345149035124429
+Forest,Industry,3,-0.3590329134790724
+Forest,Industry,4,-0.32616926733635282
+Forest,Industry,5,-0.25234752788132575
+Forest,Industry,6,-0.20265175283659281
+Forest,Industry,7,-0.16948997721714976
+Forest,Industry,8,-0.14493897396367939
+Forest,Services,0,-9999.0
+Forest,Services,1,-0.77720959019009206
+Forest,Services,2,-0.77720959019009206
+Forest,Services,3,-0.50485219442205942
+Forest,Services,4,-0.30854778645099601
+Forest,Services,5,-0.27919121076405551
+Forest,Services,6,-0.23099514447578762
+Forest,Services,7,-0.16274136130930861
+Forest,Services,8,-0.1580382975742223
+Forest,Socio cultural uses,0,-0.57308960753416727
+Forest,Socio cultural uses,1,-0.30591787913115343
+Forest,Socio cultural uses,2,-0.31220463259358133
+Forest,Socio cultural uses,3,-0.2196995840235442
+Forest,Socio cultural uses,4,-0.14401258926701463
+Forest,Socio cultural uses,5,-0.075748475136967655
+Forest,Socio cultural uses,6,-0.026699837389230149
+Forest,Socio cultural uses,7,0.01126972811831148
+Forest,Socio cultural uses,8,0.084386047060034011
+Forest,Forest,0,-9999.0
+Forest,Forest,1,0.53755918760681143
+Forest,Forest,2,0.48194556437096331
+Forest,Forest,3,0.43946831387141305
+Forest,Forest,4,0.37873401603580115
+Forest,Forest,5,0.32056488821142182
+Forest,Forest,6,0.27243978333134106
+Forest,Forest,7,0.23492827226160412
+Forest,Forest,8,0.20387117961397888
+Forest,Extensive grasslands,0,-0.22859391808909585
+Forest,Extensive grasslands,1,-0.026173720311065428
+Forest,Extensive grasslands,2,-0.057149248726435023
+Forest,Extensive grasslands,3,-0.13037826195645363
+Forest,Extensive grasslands,4,-0.027108758468489653
+Forest,Extensive grasslands,5,-0.018784877825577476
+Forest,Extensive grasslands,6,-0.076291768519591713
+Forest,Extensive grasslands,7,-0.0855673438616395
+Forest,Extensive grasslands,8,-0.024340858359034656
+Forest,Nature,0,-0.03721604179916331
+Forest,Nature,1,0.16819456433825619
+Forest,Nature,2,0.21845831895199852
+Forest,Nature,3,0.22636398370289285
+Forest,Nature,4,0.23137105814009501
+Forest,Nature,5,0.21063611121087181
+Forest,Nature,6,0.19612494494111296
+Forest,Nature,7,0.17062210726739793
+Forest,Nature,8,0.15090035068871333
+Forest,Recreation areas,0,0.053011681684500801
+Forest,Recreation areas,1,0.020583968378440082
+Forest,Recreation areas,2,0.023290418443578546
+Forest,Recreation areas,3,0.032641066375432515
+Forest,Recreation areas,4,0.0094996228321388692
+Forest,Recreation areas,5,0.00016234684109285371
+Forest,Recreation areas,6,0.0069934346019883756
+Forest,Recreation areas,7,-0.0053724664075874276
+Forest,Recreation areas,8,-0.0007759701128344658
+Extensive grasslands,Greenhouses,0,-9999.0
+Extensive grasslands,Greenhouses,1,-0.5018586314881377
+Extensive grasslands,Greenhouses,2,-0.55301115393551903
+Extensive grasslands,Greenhouses,3,-0.15932749905295601
+Extensive grasslands,Greenhouses,4,-0.14675834170891405
+Extensive grasslands,Greenhouses,5,-0.26701903476102834
+Extensive grasslands,Greenhouses,6,-0.27994894779223822
+Extensive grasslands,Greenhouses,7,-0.46207361827741994
+Extensive grasslands,Greenhouses,8,-0.50750704860505602
+Extensive grasslands,Housing low density,0,-0.53783385161406916
+Extensive grasslands,Housing low density,1,-0.26276941898655815
+Extensive grasslands,Housing low density,2,-0.24969548837733024
+Extensive grasslands,Housing low density,3,-0.1759868250800701
+Extensive grasslands,Housing low density,4,-0.09253584496808305
+Extensive grasslands,Housing low density,5,-0.052802392478284887
+Extensive grasslands,Housing low density,6,-0.047796754210424973
+Extensive grasslands,Housing low density,7,-0.091936686173346008
+Extensive grasslands,Housing low density,8,-0.057435884468651083
+Extensive grasslands,Housing high density,0,-9999.0
+Extensive grasslands,Housing high density,1,-0.49567325455727951
+Extensive grasslands,Housing high density,2,-0.03494241602578646
+Extensive grasslands,Housing high density,3,-0.14241972608339151
+Extensive grasslands,Housing high density,4,-0.23429496041788381
+Extensive grasslands,Housing high density,5,-0.086205369887477887
+Extensive grasslands,Housing high density,6,-0.27451930906686267
+Extensive grasslands,Housing high density,7,-0.3402707750527309
+Extensive grasslands,Housing high density,8,-0.063971379904094697
+Extensive grasslands,Industry,0,-0.34507252762784313
+Extensive grasslands,Industry,1,-0.51730336587028614
+Extensive grasslands,Industry,2,-0.36873644582563658
+Extensive grasslands,Industry,3,-0.23064212787213831
+Extensive grasslands,Industry,4,-0.32669845546567078
+Extensive grasslands,Industry,5,-0.1874478134600607
+Extensive grasslands,Industry,6,-0.13745537712991368
+Extensive grasslands,Industry,7,-0.074851523311875834
+Extensive grasslands,Industry,8,0.0043769845241584636
+Extensive grasslands,Services,0,-9999.0
+Extensive grasslands,Services,1,-0.032562714280431858
+Extensive grasslands,Services,2,-0.68577522805577551
+Extensive grasslands,Services,3,0.0088299708777931536
+Extensive grasslands,Services,4,-0.2208884297531247
+Extensive grasslands,Services,5,-0.06701158974214691
+Extensive grasslands,Services,6,-0.28783521938373796
+Extensive grasslands,Services,7,-0.27172063329814211
+Extensive grasslands,Services,8,-0.2692546076521245
+Extensive grasslands,Socio cultural uses,0,-9999.0
+Extensive grasslands,Socio cultural uses,1,-0.60659398200815062
+Extensive grasslands,Socio cultural uses,2,-0.78268524106383186
+Extensive grasslands,Socio cultural uses,3,-0.2086539733361131
+Extensive grasslands,Socio cultural uses,4,-0.22386372565062188
+Extensive grasslands,Socio cultural uses,5,-0.043444664778607582
+Extensive grasslands,Socio cultural uses,6,-0.063913927317885255
+Extensive grasslands,Socio cultural uses,7,-0.013303598991871802
+Extensive grasslands,Socio cultural uses,8,-0.063871363153602992
+Extensive grasslands,Forest,0,0.39637049695558824
+Extensive grasslands,Forest,1,0.15333244826929385
+Extensive grasslands,Forest,2,0.14991929115558769
+Extensive grasslands,Forest,3,0.080397230677166101
+Extensive grasslands,Forest,4,-0.0026566896966089852
+Extensive grasslands,Forest,5,0.028391551667827288
+Extensive grasslands,Forest,6,0.046784873272612146
+Extensive grasslands,Forest,7,0.11729118229649828
+Extensive grasslands,Forest,8,0.10742386268988399
+Extensive grasslands,Extensive grasslands,0,-9999.0
+Extensive grasslands,Extensive grasslands,1,0.88814630930999072
+Extensive grasslands,Extensive grasslands,2,0.73298582711858684
+Extensive grasslands,Extensive grasslands,3,0.71033565051692571
+Extensive grasslands,Extensive grasslands,4,0.52927494455600732
+Extensive grasslands,Extensive grasslands,5,0.40410187974656281
+Extensive grasslands,Extensive grasslands,6,0.29574674470809947
+Extensive grasslands,Extensive grasslands,7,0.20166735245880363
+Extensive grasslands,Extensive grasslands,8,0.2162400607871785
+Extensive grasslands,Nature,0,0.054218320335153294
+Extensive grasslands,Nature,1,0.16048093126318314
+Extensive grasslands,Nature,2,0.22774904014676392
+Extensive grasslands,Nature,3,0.22980989321285913
+Extensive grasslands,Nature,4,0.1484764547859036
+Extensive grasslands,Nature,5,0.053390194031115619
+Extensive grasslands,Nature,6,0.015554533332338102
+Extensive grasslands,Nature,7,-0.010937055608311402
+Extensive grasslands,Nature,8,-0.026867636488765195
+Extensive grasslands,Recreation areas,0,0.41268352608649111
+Extensive grasslands,Recreation areas,1,0.13842591145011399
+Extensive grasslands,Recreation areas,2,0.03070586166693642
+Extensive grasslands,Recreation areas,3,-0.018530932742481576
+Extensive grasslands,Recreation areas,4,-0.020067937663169649
+Extensive grasslands,Recreation areas,5,-0.12572287094915804
+Extensive grasslands,Recreation areas,6,-0.12572772206484156
+Extensive grasslands,Recreation areas,7,-0.059464071674993658
+Extensive grasslands,Recreation areas,8,-0.06970909963862848
+Nature,Greenhouses,0,-9999.0
+Nature,Greenhouses,1,-1.5682580697043096
+Nature,Greenhouses,2,-0.87904790265744703
+Nature,Greenhouses,3,-0.51486298503114947
+Nature,Greenhouses,4,-0.4241278501107506
+Nature,Greenhouses,5,-0.3547372023346807
+Nature,Greenhouses,6,-0.36056902259788731
+Nature,Greenhouses,7,-0.29850394235335742
+Nature,Greenhouses,8,-0.30418909581890724
+Nature,Housing low density,0,-0.60423328983024116
+Nature,Housing low density,1,-0.80744427409496367
+Nature,Housing low density,2,-0.63344011133605105
+Nature,Housing low density,3,-0.53220423602390343
+Nature,Housing low density,4,-0.49506829283089354
+Nature,Housing low density,5,-0.40288303104559253
+Nature,Housing low density,6,-0.34256499019375442
+Nature,Housing low density,7,-0.30585090978055474
+Nature,Housing low density,8,-0.25673841109982859
+Nature,Housing high density,0,-0.53404396917320807
+Nature,Housing high density,1,-0.89306591181487593
+Nature,Housing high density,2,-0.61322521522083284
+Nature,Housing high density,3,-0.44967395791665754
+Nature,Housing high density,4,-0.46461785505529368
+Nature,Housing high density,5,-0.35255650473924965
+Nature,Housing high density,6,-0.25507751400758288
+Nature,Housing high density,7,-0.18920757912658187
+Nature,Housing high density,8,-0.14577417822405547
+Nature,Industry,0,-0.28653322923571511
+Nature,Industry,1,-0.46123078043203747
+Nature,Industry,2,-0.46798030501592625
+Nature,Industry,3,-0.4315586231498893
+Nature,Industry,4,-0.38098965012551655
+Nature,Industry,5,-0.33023844044224077
+Nature,Industry,6,-0.27836962547478616
+Nature,Industry,7,-0.22725488848833436
+Nature,Industry,8,-0.200482771147659
+Nature,Services,0,-9999.0
+Nature,Services,1,-1.0709334288963601
+Nature,Services,2,-0.42118144723052303
+Nature,Services,3,-0.36300858190741508
+Nature,Services,4,-0.26552792851997764
+Nature,Services,5,-0.22672260978699682
+Nature,Services,6,-0.15694393709215118
+Nature,Services,7,-0.116461344957841
+Nature,Services,8,-0.11362690025538899
+Nature,Socio cultural uses,0,-0.76990343323237898
+Nature,Socio cultural uses,1,-1.1958721655046602
+Nature,Socio cultural uses,2,-0.49761298847722091
+Nature,Socio cultural uses,3,-0.3902532081013913
+Nature,Socio cultural uses,4,-0.26802796352945218
+Nature,Socio cultural uses,5,-0.2405264757411727
+Nature,Socio cultural uses,6,-0.28017367029588347
+Nature,Socio cultural uses,7,-0.19804743023062785
+Nature,Socio cultural uses,8,-0.16623268134453334
+Nature,Forest,0,-0.61203699428289682
+Nature,Forest,1,-0.32479528310454908
+Nature,Forest,2,-0.10759261235199954
+Nature,Forest,3,-0.00048275214924226745
+Nature,Forest,4,0.069876613450040717
+Nature,Forest,5,0.098547146005667968
+Nature,Forest,6,0.085736244206700965
+Nature,Forest,7,0.10389489793043051
+Nature,Forest,8,0.098088563209556251
+Nature,Extensive grasslands,0,-0.72643773945128876
+Nature,Extensive grasslands,1,-0.33727165508675622
+Nature,Extensive grasslands,2,-0.11350869890748198
+Nature,Extensive grasslands,3,-0.1823898390970233
+Nature,Extensive grasslands,4,-0.04987232128604753
+Nature,Extensive grasslands,5,-0.10524183503331078
+Nature,Extensive grasslands,6,-0.16974054302429104
+Nature,Extensive grasslands,7,-0.12562085264679237
+Nature,Extensive grasslands,8,-0.14736284669692934
+Nature,Nature,0,-9999.0
+Nature,Nature,1,0.26926195752608778
+Nature,Nature,2,0.22685873335214152
+Nature,Nature,3,0.19051547983279238
+Nature,Nature,4,0.17500603970937223
+Nature,Nature,5,0.18753410772342827
+Nature,Nature,6,0.21461680173702954
+Nature,Nature,7,0.22104413389301733
+Nature,Nature,8,0.21423430515388533
+Nature,Recreation areas,0,0.17274001782851783
+Nature,Recreation areas,1,-0.13979733177117964
+Nature,Recreation areas,2,-0.21730730485637653
+Nature,Recreation areas,3,-0.1657093490607012
+Nature,Recreation areas,4,-0.12044914477754563
+Nature,Recreation areas,5,-0.095374091788275744
+Nature,Recreation areas,6,-0.09033639307416165
+Nature,Recreation areas,7,-0.085635775136931727
+Nature,Recreation areas,8,-0.076594130137790331
+Recreation areas,Greenhouses,0,-0.0075226236991180351
+Recreation areas,Greenhouses,1,-0.13246136030741801
+Recreation areas,Greenhouses,2,0.015364361959390655
+Recreation areas,Greenhouses,3,0.033438999903218546
+Recreation areas,Greenhouses,4,0.053588668999814189
+Recreation areas,Greenhouses,5,0.14039369756378414
+Recreation areas,Greenhouses,6,0.15489143796426008
+Recreation areas,Greenhouses,7,0.14502203692082269
+Recreation areas,Greenhouses,8,0.13852039104978303
+Recreation areas,Housing low density,0,0.35444216484698809
+Recreation areas,Housing low density,1,0.21623962722021794
+Recreation areas,Housing low density,2,0.27820854508278692
+Recreation areas,Housing low density,3,0.24034330090492187
+Recreation areas,Housing low density,4,0.24843765519925615
+Recreation areas,Housing low density,5,0.23736879550167089
+Recreation areas,Housing low density,6,0.19595530528957797
+Recreation areas,Housing low density,7,0.18434459723422855
+Recreation areas,Housing low density,8,0.17654631011030836
+Recreation areas,Housing high density,0,0.66766953419031549
+Recreation areas,Housing high density,1,0.49389864297978014
+Recreation areas,Housing high density,2,0.56831116245360791
+Recreation areas,Housing high density,3,0.59667235938471497
+Recreation areas,Housing high density,4,0.51033356641326533
+Recreation areas,Housing high density,5,0.45411979564621335
+Recreation areas,Housing high density,6,0.42354384821403662
+Recreation areas,Housing high density,7,0.40752931528760561
+Recreation areas,Housing high density,8,0.38542390144347405
+Recreation areas,Industry,0,0.040119010736108483
+Recreation areas,Industry,1,0.11809837666280962
+Recreation areas,Industry,2,0.1793180858602417
+Recreation areas,Industry,3,0.21317594116286329
+Recreation areas,Industry,4,0.20466717987817501
+Recreation areas,Industry,5,0.18950937953047611
+Recreation areas,Industry,6,0.18197395046951467
+Recreation areas,Industry,7,0.16691901762900166
+Recreation areas,Industry,8,0.1436131133560285
+Recreation areas,Services,0,0.1095907753972253
+Recreation areas,Services,1,0.3552796633322361
+Recreation areas,Services,2,0.43082415714949346
+Recreation areas,Services,3,0.44320380580801888
+Recreation areas,Services,4,0.46998873632851107
+Recreation areas,Services,5,0.43114274687865273
+Recreation areas,Services,6,0.40379267673601882
+Recreation areas,Services,7,0.38299472029240289
+Recreation areas,Services,8,0.4127236995949124
+Recreation areas,Socio cultural uses,0,0.73284006579512584
+Recreation areas,Socio cultural uses,1,0.57909720859640323
+Recreation areas,Socio cultural uses,2,0.45693909805489558
+Recreation areas,Socio cultural uses,3,0.39746381562285982
+Recreation areas,Socio cultural uses,4,0.3886701431704131
+Recreation areas,Socio cultural uses,5,0.33888767884194498
+Recreation areas,Socio cultural uses,6,0.33127440918036466
+Recreation areas,Socio cultural uses,7,0.32109731066529723
+Recreation areas,Socio cultural uses,8,0.31011664709430797
+Recreation areas,Forest,0,0.74457846906636993
+Recreation areas,Forest,1,0.33553258827028137
+Recreation areas,Forest,2,0.17031017043143348
+Recreation areas,Forest,3,0.067881874128704181
+Recreation areas,Forest,4,0.034160637276712827
+Recreation areas,Forest,5,0.042960046734976796
+Recreation areas,Forest,6,0.025727247124496901
+Recreation areas,Forest,7,0.049800762613840498
+Recreation areas,Forest,8,0.076296346677326238
+Recreation areas,Extensive grasslands,0,0.56802981714913359
+Recreation areas,Extensive grasslands,1,0.1658936938834879
+Recreation areas,Extensive grasslands,2,0.031053220937352827
+Recreation areas,Extensive grasslands,3,0.037712092820818978
+Recreation areas,Extensive grasslands,4,-0.036484769952947069
+Recreation areas,Extensive grasslands,5,0.0015387224380338453
+Recreation areas,Extensive grasslands,6,0.026510040298651383
+Recreation areas,Extensive grasslands,7,-0.04482577761061686
+Recreation areas,Extensive grasslands,8,0.020048477230996252
+Recreation areas,Nature,0,0.45678395476852762
+Recreation areas,Nature,1,0.23868257260491088
+Recreation areas,Nature,2,0.16336246093087467
+Recreation areas,Nature,3,0.074444909741701801
+Recreation areas,Nature,4,0.058411822391253691
+Recreation areas,Nature,5,0.076589567218592225
+Recreation areas,Nature,6,0.063074114488071251
+Recreation areas,Nature,7,0.046156494774768832
+Recreation areas,Nature,8,0.065812308637919453
+Recreation areas,Recreation areas,0,-9999.0
+Recreation areas,Recreation areas,1,0.48377264617822502
+Recreation areas,Recreation areas,2,0.42251983812917177
+Recreation areas,Recreation areas,3,0.35200529227387489
+Recreation areas,Recreation areas,4,0.30324540238773312
+Recreation areas,Recreation areas,5,0.27052072110855868
+Recreation areas,Recreation areas,6,0.26673395700987962
+Recreation areas,Recreation areas,7,0.25838945719212369
+Recreation areas,Recreation areas,8,0.23280499213633712
+Airport,Greenhouses,0,-9999.0
+Airport,Greenhouses,1,-9999.0
+Airport,Greenhouses,2,-9999.0
+Airport,Greenhouses,3,-0.12585900630592362
+Airport,Greenhouses,4,0.43841242413263898
+Airport,Greenhouses,5,0.2679250425949562
+Airport,Greenhouses,6,0.37929097201398243
+Airport,Greenhouses,7,0.25435223540568241
+Airport,Greenhouses,8,0.35126224841373871
+Airport,Housing low density,0,-9999.0
+Airport,Housing low density,1,-0.63895548115151735
+Airport,Housing low density,2,-1.1160767358711798
+Airport,Housing low density,3,-0.9399854768154986
+Airport,Housing low density,4,-0.15095595624168512
+Airport,Housing low density,5,0.10140720834272653
+Airport,Housing low density,6,0.26195758658615148
+Airport,Housing low density,7,0.44537845504680346
+Airport,Housing low density,8,0.50457974394844107
+Airport,Housing high density,0,-9999.0
+Airport,Housing high density,1,-9999.0
+Airport,Housing high density,2,-9999.0
+Airport,Housing high density,3,-0.47185614748642785
+Airport,Housing high density,4,-9999.0
+Airport,Housing high density,5,-0.71489419617272232
+Airport,Housing high density,6,0.033293830833477984
+Airport,Housing high density,7,0.4089574447943633
+Airport,Housing high density,8,0.32977619874673852
+Airport,Industry,0,-9999.0
+Airport,Industry,1,0.33195709321835221
+Airport,Industry,2,0.43207224610162009
+Airport,Industry,3,0.46585067247957856
+Airport,Industry,4,0.50804835227403344
+Airport,Industry,5,0.51938827803101539
+Airport,Industry,6,0.52701266624677179
+Airport,Industry,7,0.49828851498487725
+Airport,Industry,8,0.51330733918470706
+Airport,Services,0,-9999.0
+Airport,Services,1,-9999.0
+Airport,Services,2,0.11619312939871973
+Airport,Services,3,0.29228438845440091
+Airport,Services,4,0.16734565184610098
+Airport,Services,5,0.65130633109606884
+Airport,Services,6,0.63470706927660725
+Airport,Services,7,0.82376330549665611
+Airport,Services,8,0.7928867390235862
+Airport,Socio cultural uses,0,-9999.0
+Airport,Socio cultural uses,1,-0.10565562021763658
+Airport,Socio cultural uses,2,0.71825312072668213
+Airport,Socio cultural uses,3,0.62584360894530211
+Airport,Socio cultural uses,4,0.40622774076123774
+Airport,Socio cultural uses,5,0.37375743128161054
+Airport,Socio cultural uses,6,0.076187967727135875
+Airport,Socio cultural uses,7,-0.10565562021763658
+Airport,Socio cultural uses,8,0.10001265100114885
+Airport,Forest,0,0.35324081439582672
+Airport,Forest,1,0.1491208317399019
+Airport,Forest,2,-0.026970427315779307
+Airport,Forest,3,-0.85087916826009802
+Airport,Forest,4,0.078539757454194628
+Airport,Forest,5,0.22830207778752667
+Airport,Forest,6,0.21357882096682046
+Airport,Forest,7,0.24254251690213705
+Airport,Forest,8,0.20924610183008685
+Airport,Extensive grasslands,0,-9999.0
+Airport,Extensive grasslands,1,-9999.0
+Airport,Extensive grasslands,2,-9999.0
+Airport,Extensive grasslands,3,-9999.0
+Airport,Extensive grasslands,4,-9999.0
+Airport,Extensive grasslands,5,-9999.0
+Airport,Extensive grasslands,6,-0.76115993077256505
+Airport,Extensive grasslands,7,-0.76115993077256505
+Airport,Extensive grasslands,8,-0.84034117682018994
+Airport,Nature,0,0.31211863343937291
+Airport,Nature,1,-0.046903309202294977
+Airport,Nature,2,0.045850744034603687
+Airport,Nature,3,0.20490866379150457
+Airport,Nature,4,0.19655658942673876
+Airport,Nature,5,0.23391536422603215
+Airport,Nature,6,0.13465039792068326
+Airport,Nature,7,0.10036921749344972
+Airport,Nature,8,0.010603174877176097
+Airport,Recreation areas,0,-9999.0
+Airport,Recreation areas,1,-0.61785702916524987
+Airport,Recreation areas,2,-0.39600827954889356
+Airport,Recreation areas,3,-0.52094701615719341
+Airport,Recreation areas,4,-0.29049809477891952
+Airport,Recreation areas,5,0.015899898349156259
+Airport,Recreation areas,6,0.15641749001990526
+Airport,Recreation areas,7,0.31664142207831775
+Airport,Recreation areas,8,0.31827344329959656
+Fresh water,Greenhouses,0,-0.56417444640915027
+Fresh water,Greenhouses,1,-0.65435107675823834
+Fresh water,Greenhouses,2,-0.25258110817241192
+Fresh water,Greenhouses,3,-0.050812915417457034
+Fresh water,Greenhouses,4,0.0078798104726641258
+Fresh water,Greenhouses,5,0.02091240352348742
+Fresh water,Greenhouses,6,0.072226013225388463
+Fresh water,Greenhouses,7,0.16916902654548119
+Fresh water,Greenhouses,8,0.17935731791576076
+Fresh water,Housing low density,0,-0.35711161784878731
+Fresh water,Housing low density,1,-0.085175228579065579
+Fresh water,Housing low density,2,0.013333873186868139
+Fresh water,Housing low density,3,0.054154862200347167
+Fresh water,Housing low density,4,0.09234030040756723
+Fresh water,Housing low density,5,0.074995959967019479
+Fresh water,Housing low density,6,0.074871993570404513
+Fresh water,Housing low density,7,0.053455023270049716
+Fresh water,Housing low density,8,0.030643733568672549
+Fresh water,Housing high density,0,0.22016218090535139
+Fresh water,Housing high density,1,-0.057386718909106904
+Fresh water,Housing high density,2,0.078833028108882042
+Fresh water,Housing high density,3,0.10046399759408937
+Fresh water,Housing high density,4,0.18005106698390622
+Fresh water,Housing high density,5,0.19094804610560093
+Fresh water,Housing high density,6,0.1633709914293997
+Fresh water,Housing high density,7,0.1895520937938823
+Fresh water,Housing high density,8,0.13174454731095531
+Fresh water,Industry,0,0.44284933711781216
+Fresh water,Industry,1,0.23835937752357395
+Fresh water,Industry,2,0.16927952707308175
+Fresh water,Industry,3,0.17759997539921385
+Fresh water,Industry,4,0.16515492093281381
+Fresh water,Industry,5,0.12082030877641499
+Fresh water,Industry,6,0.093178957005322346
+Fresh water,Industry,7,0.060051282235196034
+Fresh water,Industry,8,0.094896855766928676
+Fresh water,Services,0,-9999.0
+Fresh water,Services,1,-0.42587174824286883
+Fresh water,Services,2,0.042797028809787974
+Fresh water,Services,3,-0.030431206538412598
+Fresh water,Services,4,0.066973166827022396
+Fresh water,Services,5,0.17676833363748876
+Fresh water,Services,6,0.043145230019697126
+Fresh water,Services,7,0.10028625830796728
+Fresh water,Services,8,0.17588558579352268
+Fresh water,Socio cultural uses,0,-0.1917885422095009
+Fresh water,Socio cultural uses,1,-0.14711814729003983
+Fresh water,Socio cultural uses,2,-0.0014096765689589103
+Fresh water,Socio cultural uses,3,-0.016606529541966345
+Fresh water,Socio cultural uses,4,0.10620372528967123
+Fresh water,Socio cultural uses,5,0.10106438055628814
+Fresh water,Socio cultural uses,6,0.10929146991641374
+Fresh water,Socio cultural uses,7,0.083223292842452945
+Fresh water,Socio cultural uses,8,0.066160871333845322
+Fresh water,Forest,0,-0.33495209892399991
+Fresh water,Forest,1,-0.16156924652976754
+Fresh water,Forest,2,-0.24212634408700887
+Fresh water,Forest,3,-0.26910607494375066
+Fresh water,Forest,4,-0.33746316849647251
+Fresh water,Forest,5,-0.30725092751464861
+Fresh water,Forest,6,-0.14188221769816026
+Fresh water,Forest,7,-0.11630651846441638
+Fresh water,Forest,8,-0.018281872872420498
+Fresh water,Extensive grasslands,0,-0.14832284842841056
+Fresh water,Extensive grasslands,1,0.051249506476793605
+Fresh water,Extensive grasslands,2,0.056550463960033499
+Fresh water,Extensive grasslands,3,-0.073181580182525768
+Fresh water,Extensive grasslands,4,0.0067711746052369704
+Fresh water,Extensive grasslands,5,0.08876250859644487
+Fresh water,Extensive grasslands,6,0.09248583411008339
+Fresh water,Extensive grasslands,7,0.088467181351733676
+Fresh water,Extensive grasslands,8,0.034941690849591728
+Fresh water,Nature,0,0.13580908109842069
+Fresh water,Nature,1,0.0040112797345136829
+Fresh water,Nature,2,-0.020651487339556966
+Fresh water,Nature,3,-0.02506948998106022
+Fresh water,Nature,4,-0.026120622116038057
+Fresh water,Nature,5,-0.033492883248991648
+Fresh water,Nature,6,-0.017520490034038893
+Fresh water,Nature,7,-0.0066254895390950707
+Fresh water,Nature,8,-0.049943768552913284
+Fresh water,Recreation areas,0,0.086060522526237207
+Fresh water,Recreation areas,1,0.077409204966301132
+Fresh water,Recreation areas,2,0.092500031326767526
+Fresh water,Recreation areas,3,0.069916743782664895
+Fresh water,Recreation areas,4,0.065220484248654384
+Fresh water,Recreation areas,5,0.04708082216615421
+Fresh water,Recreation areas,6,0.069209539835386261
+Fresh water,Recreation areas,7,0.075288136245274612
+Fresh water,Recreation areas,8,0.05638734723789593
+Marine water,Greenhouses,0,-9999.0
+Marine water,Greenhouses,1,-9999.0
+Marine water,Greenhouses,2,-9999.0
+Marine water,Greenhouses,3,-9999.0
+Marine water,Greenhouses,4,-9999.0
+Marine water,Greenhouses,5,-0.039107814980637277
+Marine water,Greenhouses,6,-9999.0
+Marine water,Greenhouses,7,0.13698344407504398
+Marine water,Greenhouses,8,0.7121865746032241
+Marine water,Housing low density,0,-9999.0
+Marine water,Housing low density,1,-9999.0
+Marine water,Housing low density,2,-0.28717194743376867
+Marine water,Housing low density,3,-9999.0
+Marine water,Housing low density,4,-0.064545588868567899
+Marine water,Housing low density,5,-0.32496050832316853
+Marine water,Housing low density,6,-9999.0
+Marine water,Housing low density,7,-0.11897425029397088
+Marine water,Housing low density,8,-0.77725817931779873
+Marine water,Housing high density,0,-9999.0
+Marine water,Housing high density,1,-9999.0
+Marine water,Housing high density,2,-9999.0
+Marine water,Housing high density,3,-9999.0
+Marine water,Housing high density,4,0.14316882100590214
+Marine water,Housing high density,5,0.16165222669991525
+Marine water,Housing high density,6,-9999.0
+Marine water,Housing high density,7,-9999.0
+Marine water,Housing high density,8,0.33304836454721665
+Marine water,Industry,0,-9999.0
+Marine water,Industry,1,-0.1321991843369425
+Marine water,Industry,2,-0.1321991843369425
+Marine water,Industry,3,0.19438491579942677
+Marine water,Industry,4,0.54213159461852989
+Marine water,Industry,5,0.14094059657246069
+Marine water,Industry,6,0.5247204299169832
+Marine water,Industry,7,0.61710272497182705
+Marine water,Industry,8,0.086316771698965691
+Marine water,Services,0,-9999.0
+Marine water,Services,1,-9999.0
+Marine water,Services,2,-9999.0
+Marine water,Services,3,-9999.0
+Marine water,Services,4,-9999.0
+Marine water,Services,5,-9999.0
+Marine water,Services,6,-9999.0
+Marine water,Services,7,-9999.0
+Marine water,Services,8,-9999.0
+Marine water,Socio cultural uses,0,-9999.0
+Marine water,Socio cultural uses,1,-9999.0
+Marine water,Socio cultural uses,2,0.54715790916409324
+Marine water,Socio cultural uses,3,0.50936934827469349
+Marine water,Socio cultural uses,4,-9999.0
+Marine water,Socio cultural uses,5,-9999.0
+Marine water,Socio cultural uses,6,-9999.0
+Marine water,Socio cultural uses,7,-9999.0
+Marine water,Socio cultural uses,8,-9999.0
+Marine water,Forest,0,-9999.0
+Marine water,Forest,1,-9999.0
+Marine water,Forest,2,-9999.0
+Marine water,Forest,3,-9999.0
+Marine water,Forest,4,-9999.0
+Marine water,Forest,5,-9999.0
+Marine water,Forest,6,-9999.0
+Marine water,Forest,7,-9999.0
+Marine water,Forest,8,-9999.0
+Marine water,Extensive grasslands,0,-9999.0
+Marine water,Extensive grasslands,1,-9999.0
+Marine water,Extensive grasslands,2,-9999.0
+Marine water,Extensive grasslands,3,-9999.0
+Marine water,Extensive grasslands,4,-9999.0
+Marine water,Extensive grasslands,5,-9999.0
+Marine water,Extensive grasslands,6,0.16961829020445249
+Marine water,Extensive grasslands,7,-9999.0
+Marine water,Extensive grasslands,8,0.5713184477497969
+Marine water,Nature,0,1.7052948523153464
+Marine water,Nature,1,0.77992847061225079
+Marine water,Nature,2,0.81361601441914899
+Marine water,Nature,3,-9999.0
+Marine water,Nature,4,0.49100105796367971
+Marine water,Nature,5,0.40082406475148957
+Marine water,Nature,6,0.16628660673447335
+Marine water,Nature,7,-0.068828908785253481
+Marine water,Nature,8,-0.080287101766726793
+Marine water,Recreation areas,0,-9999.0
+Marine water,Recreation areas,1,-9999.0
+Marine water,Recreation areas,2,-9999.0
+Marine water,Recreation areas,3,-0.37080884596751423
+Marine water,Recreation areas,4,-0.16501039999115624
+Marine water,Recreation areas,5,-9999.0
+Marine water,Recreation areas,6,-0.22642961777074014
+Marine water,Recreation areas,7,-0.20441349155227911
+Marine water,Recreation areas,8,-0.14664121279691647
